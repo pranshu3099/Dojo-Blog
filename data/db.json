@@ -19,22 +19,16 @@
       "id": 3
     },
     {
-      "title": "qqqqqqq",
-      "author": "Yoshi",
-      "body": "aqwwerrrr",
-      "id": 4
-    },
-    {
-      "title": "My first Blog",
-      "author": "Mario",
-      "body": "hey i am Mario",
-      "id": 5
-    },
-    {
       "title": "My first Blog",
       "author": "Yoshi",
       "body": "hey i am yoshi",
       "id": 6
+    },
+    {
+      "title": "Mohit's Blog",
+      "author": "Mario",
+      "body": "qqqqqqqqqqqqqqqqqqqqq",
+      "id": 7
     }
   ]
 }
